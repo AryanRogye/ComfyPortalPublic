@@ -3,12 +3,20 @@
     <channel>
         <title>ComfyPortal</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Sat, 24 Oct 2026 16:00:10 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://aryanrogye.github.io/ComfyPortalPublic/updates/ComfyPortal-Installer.dmg" length="80856751" type="application/octet-stream" sparkle:edSignature="/Sq3BWem4l8bKzLclSgWkn5YG6KC1mwyVS72dX8YPWlnF+2E5tVQOrpVXW8jTlo1PQ7kdchIR/+dIb+i2U2GBA=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Sat, 24 Oct 2026 13:20:45 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/AryanRogye/ComfyPortalPublic/releases/download/1.2/ComfyPortal-Installer.dmg" length="80701831" type="application/octet-stream" sparkle:edSignature="c3tr7vkgneDz5us1SCrWPjIjM4inYheyLNhujRnkO4255+rrJ9QhT3PqslG14dytXjsmMwSyhoeAvURU5aauAA=="/>
+            <enclosure url="https://github.com/AryanRogye/ComfyPortalPublic/releases/download/1.3/ComfyPortal-Installer.dmg" length="80701831" type="application/octet-stream" sparkle:edSignature="c3tr7vkgneDz5us1SCrWPjIjM4inYheyLNhujRnkO4255+rrJ9QhT3PqslG14dytXjsmMwSyhoeAvURU5aauAA=="/>
         </item>
     </channel>
 </rss>
