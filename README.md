@@ -21,7 +21,7 @@ ComfyPortal uses a modified build of WebKit with a small set of changes made spe
 
 The modified WebKit source is available here:
 
-https://github.com/AryanRogye/WebKit
+https://github.com/AryanRogye/ComfyWebKit
 
 WebKit is an open-source web engine maintained by Apple and the WebKit community. ComfyPortal's modifications are maintained separately from the main ComfyPortal application source.
 
