@@ -6,59 +6,57 @@
   <img
     src="./Assets/ComfyPortalIcon.png"
     alt="ComfyPortal App Icon"
-    width="256"
-    height="256"
+    width="150"
+    height="150"
   />
 </p>
 
-ComfyPortal is a fast, lightweight web browser for macOS focused on simplicity, performance, and a clean browsing experience.
+## Overview
+ComfyPortal is a native macOS web browser built with SwiftUI, AppKit, and a modified version of WebKit.
 
-It started as a personal project built around the idea that a browser doesn't need to be complicated to be useful. ComfyPortal focuses on getting out of your way while still providing the features expected from a modern browser.
+Originally developed as a personal project, ComfyPortal aims to provide a customizable browsing experience while remaining lightweight and native to macOS.
+
+## Downloads
+
+ComfyPortal is available directly for macOS.
+- [Download the latest release](https://github.com/AryanRogye/ComfyPortalPublic/releases/latest)
+- [View previous releases](https://github.com/AryanRogye/ComfyPortalPublic/releases)
 
 ## Features
 
-- Fast, native macOS experience
-- Clean and minimal interface
-- Tabbed browsing
-- Private browsing
-- Built-in content blocking
-- Session and tab restoration
-- Native macOS integration
-- Built on a modified version of WebKit
+- Native macOS interface with customizable appearance
+- Split tabs, pinned tabs, and visual tab switching
+- Tab hibernation and automatic tab expiration
+- Built-in content blocking with uBlock Origin Lite
+- Private browsing and Keychain-backed password management
+- Integrated Markdown notes editor
+- Built-in MCP server for browser automation
+- Task manager and JavaScript runner
+- Automatic updates through Sparkle
+- Picture-in-Picture support
+- Ranked address bar suggestions
+- Integrated AI sidebar with ChatGPT, Claude, and Gemini
 
-## Dark and Light Appearance
-
-![ComfyPortal Dark](./Assets/README_DARK.png#gh-dark-mode-only)
-![ComfyPortal Light](./Assets/README_LIGHT.png#gh-light-mode-only)
+ComfyPortal supports automatic updates.
 
 ## WebKit
 
-ComfyPortal uses a modified build of WebKit with a small set of changes made specifically for the browser.
+ComfyPortal uses a modified version of WebKit maintained separately from the browser itself.
 
-The modified WebKit source is available here:
+The modified WebKit source is available at [ComfyWebKit](https://github.com/AryanRogye/ComfyWebKit).
 
-https://github.com/AryanRogye/ComfyWebKit
+## Related Projects
 
-WebKit is an open-source web engine maintained by Apple and the WebKit community. ComfyPortal's modifications are maintained separately from the main ComfyPortal application source.
-
-## Download
-
-Prebuilt versions of ComfyPortal are available from the **Releases** section of this repository.
-
-ComfyPortal is distributed directly for macOS and is not distributed through the Mac App Store.
+- [ComfyWebKit](https://github.com/AryanRogye/ComfyWebKit) — Modified WebKit engine.
+- [ComfyMarkdownStore](https://github.com/AryanRogye/ComfyMarkdownStore) — Markdown storage and UI components.
+- [LocalShortcuts](https://github.com/AryanRogye/LocalShortcuts) — Native keyboard shortcut management.
 
 ## Requirements
 
-- macOS 27 or later
+- macOS 15.4 or later
 
-## About This Repository
+## Project Status
 
-This repository is the public distribution repository for ComfyPortal.
+ComfyPortal is actively developed and maintained as an independent project. The browser's application source is currently private, while its modified WebKit source is publicly available.
 
-The ComfyPortal application source code is currently maintained separately and is not included in this repository. This repository contains public releases, documentation, and other resources related to the browser.
-
-## Status
-
-ComfyPortal is actively developed, so features and behavior may change between releases.
-
-Bug reports and feedback are welcome.
+Bug reports, feature requests, and feedback are welcome.
