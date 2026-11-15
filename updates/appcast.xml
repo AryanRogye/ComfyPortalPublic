@@ -3,6 +3,15 @@
     <channel>
         <title>ComfyPortal</title>
         <item>
+            <title>1.10</title>
+            <pubDate>Sat, 14 Nov 2026 18:18:51 -0600</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/AryanRogye/ComfyPortalPublic/releases/download/1.10/ComfyPortal-Installer.dmg" length="95935120" type="application/octet-stream" sparkle:edSignature="ThTMQn1HusJA+PzsOMd5327tPLyLTttkUJXwwHKkLK8O2/B3DuaHOeGcoEG9tKYuXfRKRQ8BvgUPyhirzEMiCA=="/>
+        </item>
+        <item>
             <title>1.9</title>
             <pubDate>Fri, 13 Nov 2026 22:13:07 -0600</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/AryanRogye/ComfyPortalPublic/releases/download/1.8/ComfyPortal-Installer.dmg" length="90262211" type="application/octet-stream" sparkle:edSignature="48s0AyssbIEhR4135pGflsy30UR6A+dMurbvz7vp0oZxibwlejBnsxwlQLrn3+CQxPvawCZSvPpfxgmBLsfpDQ=="/>
-        </item>
-        <item>
-            <title>1.7</title>
-            <pubDate>Tue, 10 Nov 2026 14:38:06 -0600</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/AryanRogye/ComfyPortalPublic/releases/download/1.7/ComfyPortal-Installer.dmg" length="89878549" type="application/octet-stream" sparkle:edSignature="/uJsBd6La1BskQXGFRKZkVhRz9MsOu9GlKfJRCzKgStXHhAns4Ef/VXh0ULKy7krOSvmoyBs1pLO1JDM+WJiCA=="/>
         </item>
         <item>
             <title>1.4</title>
