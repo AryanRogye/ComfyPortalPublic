@@ -1,4 +1,15 @@
-# ComfyPortal
+<!-- Title -->
+<h1 align="center">ComfyPortal</h1>
+
+<!-- App Icon -->
+<p align="center">
+  <img
+    src="./Assets/ComfyPortalIcon.png"
+    alt="ComfyPortal App Icon"
+    width="256"
+    height="256"
+  />
+</p>
 
 ComfyPortal is a fast, lightweight web browser for macOS focused on simplicity, performance, and a clean browsing experience.
 
@@ -14,6 +25,11 @@ It started as a personal project built around the idea that a browser doesn't ne
 - Session and tab restoration
 - Native macOS integration
 - Built on a modified version of WebKit
+
+## Dark and Light Appearance
+
+![ComfyPortal Dark](./Assets/README_DARK.png#gh-dark-mode-only)
+![ComfyPortal Light](./Assets/README_LIGHT.png#gh-light-mode-only)
 
 ## WebKit
 
